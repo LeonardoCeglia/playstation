@@ -1,0 +1,72 @@
+header {
+  height: 50px;
+  width: 100%;
+  background-color: black;
+}
+
+.img-sony {
+  position: absolute;
+  top: 50%;
+  right: 0.5rem;
+  transform: translatey(-50%);
+  width: 100px;
+}
+.i {
+  height: 21px;
+  width: auto;
+}
+.a {
+  list-style-type: none;
+  text-decoration: none;
+}
+main {
+  display: block;
+}
+.returnal-banner {
+  padding-top: 600px;
+
+  background-image: url(img/jumbo-bg.png);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.returnal-banner img,
+.take-two-banner img {
+  width: 300px;
+}
+.card-games {
+  margin-bottom: 70px;
+}
+.m_outline {
+  border-radius: 24px;
+}
+.take-two-banner {
+  background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.round-edge {
+  border-radius: 24px;
+}
+
+.ps_plus-banner {
+  background-color: darkgrey;
+}
+.avenger_banner,
+.footer-banner {
+  background-color: navy;
+}
+.ms_container-500 {
+  max-width: 500px;
+  margin: 0;
+}
+footer .logo {
+  width: 100px;
+}
+footer .globe {
+  width: 30px;
+}
+.sie {
+  height: 50px;
+}
